@@ -1,1 +1,5 @@
 pandas
+matplotlib
+ydata_profiling
+nltk
+wordcloud
