@@ -3,3 +3,4 @@ matplotlib
 ydata_profiling
 nltk
 wordcloud
+scikit-learn
