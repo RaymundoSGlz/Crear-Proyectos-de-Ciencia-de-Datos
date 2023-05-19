@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## **Uso**
 
-El proyecto consiste en un análisis de datos sobre [agregar una breve descripción del tema del proyecto]. Para ejecutar el proyecto, se deben seguir los siguientes pasos:
+El proyecto consiste en un análisis de datos sobre [los proveedores del gobierno de Monterrey](http://portal.monterrey.gob.mx/transparencia/Oficial/Index_Proveedores_Contratistas.asp). Para ejecutar el proyecto, se deben seguir los siguientes pasos:
 
 1. Clonar este repositorio.
 2. Instalar las dependencias (ver sección anterior).
